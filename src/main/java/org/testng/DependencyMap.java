@@ -3,9 +3,6 @@ package org.testng;
 import org.testng.collections.ListMultiMap;
 import org.testng.collections.Lists;
 import org.testng.collections.Maps;
-import org.testng.collections.Sets;
-
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import java.util.regex.Pattern;
