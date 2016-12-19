@@ -9,4 +9,4 @@ not to include the external jar files in order to keep the size down.
 If you want to build TestNG, please sync to the GitHub repository at https://github.com/cbeust/testng.
 
 --
-The TestNG team
+The TestNG team.
